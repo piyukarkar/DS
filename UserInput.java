@@ -1,7 +1,6 @@
+public class UserInput {
 
 import java.util.Scanner;
-
-public class ScannerUserInput {
 
 	public static void main(String[] args) {
 		
